@@ -1,0 +1,17 @@
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.item {
+  justify-content: center;
+  display: flex;
+  gap: 10px;
+}
